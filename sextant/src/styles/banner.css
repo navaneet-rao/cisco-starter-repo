@@ -1,0 +1,35 @@
+/* Styling for the banner component */
+.banner {
+  background-color: #ffae03;
+  color: #603140;
+  text-align: left;
+  padding: 200px;
+  font-size: 38px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
+
+.banner h1 {
+  padding-right: 100px;
+}
+
+/* Styling for the exhibit component */
+.exhibit {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #e9190f;
+  border-radius: 24px;
+}
+
+/* Style exhibit headings */
+.exhibit h2 {
+  font-size: 24px;
+  color: #fe4e00;
+}
+
+/* Style exhibit content */
+.exhibit p {
+  font-size: 16px;
+  color: #555;
+}
